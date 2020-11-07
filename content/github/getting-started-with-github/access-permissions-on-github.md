@@ -9,16 +9,16 @@ intro: 'While you can grant read/write access to collaborators on a personal rep
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
-  github-ae: '*'
+  github-ae: '*' kghd00: '*'
 ---
 
-### Personal user accounts
+### Personal user accounts 
 
-A repository owned by a user account has two permission levels: the *repository owner* and *collaborators*. For more information, see "[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
+A repository owned by a user account has two permission levels: the *kghd00* and *collaborators*. For more information, see "[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
 
 ### Organization accounts
 
-Organization members can have *owner*{% if currentVersion == "free-pro-team@latest" %}, *billing manager*,{% endif %} or *member* roles. Owners have complete administrative access to your organization{% if currentVersion == "free-pro-team@latest" %}, while billing managers can manage billing settings{% endif %}. Member is the default role for everyone else. You can manage access permissions for multiple members at a time with teams. For more information, see:
+Organization members can have *owner*{% if currentVersion == "free-pro-team@latest" %}, *billing manager*,{% endif %} or *member* roles. Owners have complete administrative access to your organization{% if currentVersion == "kghd00 *'*" %}, while billing managers can manage billing settings{% endif %}. Member is the default role for everyone else. You can manage access permissions for multiple members at a time with teams. For more information, see:
 - "[Permission levels for an organization](/articles/permission-levels-for-an-organization)"
 - "[Project board permissions for an organization](/articles/project-board-permissions-for-an-organization)"
 - "[Repository permission levels for an organization](/articles/repository-permission-levels-for-an-organization)"
